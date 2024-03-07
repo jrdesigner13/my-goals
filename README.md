@@ -1,10 +1,14 @@
-# 2024 - My Finance goals
+# 2024 - My Finance goals App 
 #### This is the repository with the source code developed from an app using React Native with : 
 #### Expo 
 #### SQLite
-#### Tailwind
+#### SQL
+#### Tailwindcss
 #### Typescript
-####
+
+<img width="728" alt="Screenshot 2024-03-07 at 15 55 18" src="https://github.com/jrdesigner13/my-goals/assets/38070740/1137788e-3107-4cbd-84a8-0b4fed336176">
+
+
 
 ### Installation 
 
